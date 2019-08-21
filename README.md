@@ -11,3 +11,8 @@ NEL framework can be separated into 3 main components:
 **2.	Searcher:** Search is the process of generating a set of candidate KB entities for a mention. An ideal searcher should balance precision and recall to capture the correct entity while maintaining a small set of candidates.
 
 **3.	Disambiguator:** In disambiguation, the best entity is selected for a mention. Ranking problem over the candidate set.
+
+
+## NEL system
+
+![](https://j.gifs.com/jZLAGR.gif)
