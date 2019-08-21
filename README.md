@@ -12,6 +12,7 @@ NEL framework can be separated into 3 main components:
 
 **3.	Disambiguator:** In disambiguation, the best entity is selected for a mention. Ranking problem over the candidate set.
 
+For more information about the detection of named entities, please refer to the project [Named Entity Recognition](./Named-Entity-Recognition).
 
 ## NEL system
 
