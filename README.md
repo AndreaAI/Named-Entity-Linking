@@ -16,4 +16,6 @@ For more information about the detection of named entities, please refer to the 
 
 ## NEL system
 
+The API for the NEL system was developed with Python and Flask.
+
 ![](https://j.gifs.com/jZLAGR.gif)
